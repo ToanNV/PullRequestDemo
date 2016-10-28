@@ -10,4 +10,5 @@ Test 1 branch
 7
 Kloon-ToanNV-patch-1
 Now u c me!
+A
 B
