@@ -12,3 +12,4 @@ Kloon-ToanNV-patch-1
 Now u c me!
 A
 B
+C
