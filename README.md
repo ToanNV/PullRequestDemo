@@ -13,3 +13,4 @@ Now u c me!
 A
 B
 C
+Rebase test
